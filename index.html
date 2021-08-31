@@ -4,11 +4,14 @@
  <head>
      <meta charset="UTF-8" />
      <link rel="stylesheet" href="./assets/css/style.css">
-     <!-- Added link for icon back to top-->
+     <script src="https://kit.fontawesome.com/5a36f025ca.js" crossorigin="anonymous"></script>
      <title>Portifolio</title>
  </head>
 
  <body>
+    <button id="back-to-top-btn"><i class="fas fa-arrow-up"></i>
+    <a href="#subtitle" alt="back to top"></a>
+    </button>
     <!-- Name and links (About Me, Work, Contact Me, Resume)-->
      <header>
          <div class="header">
@@ -17,14 +20,14 @@
                  <nav>  
                      <ul>
                          <li>
-                             <a href="#"alt="Link About Me">About Me</a>
-                             <a name="About ME"></a>
+                             <a href="#title"alt="Link About Me">About Me</a>
+                            
                          </li>
                          <li>
-                             <a href="#"alt="link Work">Work</a>
+                             <a href="#work"alt="link Work">Work</a>
                          </li>
                          <li>
-                             <a href="#"alt="link Contact Me">Contact Me</a>
+                             <a href="#contact-me"alt="link Contact Me">Contact Me</a>
                          </li>
                         <li>
                             <a href="https://www.linkedin.com/in/gustavo-corchog-86989b38/" alt="Resume" target="blank">Resume</a>
@@ -35,6 +38,8 @@
               </div>  
           </div>
      </header>
+
+     <main>
      <!--Image under Header and subtitle (Let's do it!)-->
      <div class="underheader">
          <figure>
@@ -63,24 +68,24 @@
         <!-- First Image and link MERN Stack-->
     <div class="parent">
         <nav>
-        <div id="child" class="surf">
+        <div id="child" class="seo">
             <Figure>
                 <img src="./assets/images/digital-marketing-meeting.jpg">
             </Figure>
-            <a href="https://blog.logrocket.com/mern-stack-tutorial/" target="blank">Surf Report MERN Stack </a>
+            <a href="https://gugacorchog.github.io/home-work-first-week/index.html" target="blank">SEO Project GitHub</a>
         
         </div>
     </div>
         <!-- Second image with link to NODE/Lot-->
     <div class="parent">
-        <div id="child1" class="ledwall">
+        <div id="child" class="ledwall">
             <figure>
                 <img src="./assets/images/ledwall.jpeg">
             </figure>   
             <a href="https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js" target="blank">Led Wall NODE/Lot</a>
         </div>
         <!-- Third image with link to React/ Java Script, CSS-->
-        <div id="child1" class="calculator">
+        <div id="child" class="calculator">
             <figure>
                 <img src="./assets/images/calculator.jpeg">
             </figure>
@@ -89,14 +94,14 @@
     </div>
         <!-- Fourth image with link to MERN Stack-->
   <div class="parent">
-      <div id="child2" class="pastelpuzzels">
+      <div id="child" class="pastelpuzzels">
         <figure>  
             <img src="./assets/images/puzzles.jpeg">
         </figure>   
              <a href="https://www.linkedin.com/learning/paths/become-a-mern-stack-javascript-developer" target="blank">Patel Puzzles MERN Stack</a>
       </div>
         <!-- Fifth image with link to HTML/CSS-->
-      <div id="child2" class="runboddy">
+      <div id="child" class="runboddy">
         <figure>
             <img src="./assets/images/run boddy.jpeg">
         </figure>
@@ -139,8 +144,8 @@
                 </nav>
             </div>  
         </div>
-    </section>
-    
+     </section>
+    </main>
   </body>
 
 </html>
