@@ -2,7 +2,7 @@
 
 
 * On that project "Portfolio" i have made a WEBPAGE whit recent photo and contact links
-flowing the acceptance critiria. All the links are corresponding a differente section
+folowing the acceptance critiria. All the links are corresponding a differente section
 of the pag and scrolls to the section selected. 
 
 
