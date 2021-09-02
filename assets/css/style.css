@@ -5,14 +5,17 @@
     margin: 0;
 }
 
+/* Scroll slow when links are select */
 :root {
     scroll-behavior: smooth;
   }
 
-/* */
+
 body {
     background-color:lightgrey;
 }
+
+/* Conf to Buttom back to top  */
 #back-to-top-btn {
     position: fixed;
     bottom: 20px;
@@ -32,19 +35,19 @@ body {
    z-index: 99;
 
   }
- 
+ /* changing color of buttom back to top when cursor on top*/
   #back-to-top-btn:hover, #back-to-top-btn:focus  {
     background-color: white;
     color: grey ;
   }
   
   
-/* T */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: linear-gradient(110deg, #7e7d7a 60%, #a8a7a0 60%);
+    background: linear-gradient(110deg, #7e7d7a 38%, #a8a7a0 53%);
     color: #e6e0e0;
+    width: 1463px;
 }
 
 /* */
@@ -58,7 +61,7 @@ body {
 /*  */
 .header div {
     padding-top: 15px;
-    margin-right: 20px;
+    margin-right: 220px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -83,7 +86,7 @@ a {
 
 .underheader img {
     padding: 0;
-    width: 1280px;
+    width: 1463px;
     height: 1700px;
     overflow: hidden;
     }
@@ -381,26 +384,24 @@ a {
    
  
  #contact-me {
-    float: right;
     font-size: 30px;
     font-family: fantasy;
     margin-left: 130px;
-    margin-top: 10%;
-    margin-top:0px;
+    margin-top: 7%;
     border: 3px black solid;
     border-bottom: 0px;
     border-left: 0px;
     border-top: 0px;   
     color: black;
     padding: 15px;
-    position: absolute;
+    display: inline-block;
 }   
  
  
  .bottom div {
     padding-top: -20px;
     margin-right: 20px;
-    float: center;
+    display: inline-block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
 }
@@ -412,7 +413,7 @@ a {
 .bottom div ul li {
     display: inline-block;
     color: black;
-    margin-left: 190px;
+    margin-left: 60px;
     text-decoration: underline white;
     margin-bottom: 20px;
    
