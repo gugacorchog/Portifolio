@@ -50,7 +50,7 @@ body {
     width: 1463px;
 }
 
-/* */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -58,7 +58,7 @@ body {
     text-shadow: 5px 5px rgb(78, 70, 70);
 }
 
-/*  */
+
 .header div {
     padding-top: 15px;
     margin-right: 220px;
