@@ -40,6 +40,10 @@
      width: 1150px;
  } 
   
+ .navbar-nav {
+    flex-direction: row !important;
+}
+
 .h1{ color: blanchedalmond;
 margin-left: 10px;
 
@@ -60,27 +64,56 @@ p {
         border: 1px solid white;
         background-color: lightgrey;
         color: black;
-        /* text-shadow: 3px 2px grey;      */
  }
  
 .btn {
     color: none;
     border: none;
+    display: none;
 }
 
- #contact-me {
+ #contact-me1 {
     font-size: 15px;
     font-family: fantasy;
-    /* margin-left: 5%; */
-    /* margin-top: 7%; */
-    /* border: 3px blanchedalmond solid;
-    border-bottom: 0px;
-    border-left: 0px;
-    border-top: 0px;    */
+    width: 80%;
     color:blanchedalmond;
     padding: 15px;
     display: inline-block;
 }   
+
+#contact-me2 {
+    font-size: 15px;
+    font-family: fantasy;
+    width: 50%;
+    color:blanchedalmond;
+    padding: 15px;
+    display: inline-block;
+}   
+#contact-me3 {
+    font-size: 15px;
+    font-family: fantasy;
+    width: 50%;
+    color:blanchedalmond;
+    padding: 15px;
+    display: inline-block;
+}   
+#contact-me4 {
+    font-size: 15px;
+    font-family: fantasy;
+    width: 50%;
+    color:blanchedalmond;
+    padding: 15px;
+    display: inline-block;
+}   
+#contact-me {
+    font-size: 15px;
+    font-family: fantasy;
+    width: 50%;
+    color:blanchedalmond;
+    padding: 15px;
+    display: inline-block;
+}   
+
 
 #title {
     font-size: 30px;
