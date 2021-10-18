@@ -21,3 +21,6 @@ of the pag and scrolls to the section selected.
 # Live URL
 https://gugacorchog.github.io/Portifolio/index.html
 
+![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb1.jpg)
+
+![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb2.jpg)
