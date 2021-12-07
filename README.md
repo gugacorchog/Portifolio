@@ -1,5 +1,13 @@
-# 02 Advanced CSS: Portfolio
+# Gustavo Corchog Portfolio
 
+![License](https://img.shields.io/github/license/gugacorchog/E-Commerce)
+![Languages](https://img.shields.io/github/languages/top/gugacorchog/E-Commerce)
+![Size](https://img.shields.io/github/repo-size/gugacorchog/E-Commerce?color=red)
+![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/E-Commerce?color=pink)
+
+    
+
+## Description 
 
 * On that project "Portfolio" i have made a WEBPAGE whit recent photo and contact links
 folowing the acceptance critiria. All the links are corresponding a differente section
