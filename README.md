@@ -1,4 +1,4 @@
-# Gustavo Corchog Portfolio
+# Gustavo Corchog - Portfolio
 
 ![License](https://img.shields.io/github/license/gugacorchog/E-Commerce)
 ![Languages](https://img.shields.io/github/languages/top/gugacorchog/Portifolio?color=red)
@@ -6,6 +6,9 @@
 ![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/PORTIFOLIO)
 
 
+![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb1.jpg)
+
+![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb2.jpg)
 
 ## Description 
 
@@ -25,10 +28,28 @@ of the pag and scrolls to the section selected.
 
 * CSS in order of the HTML with comments for the principal secttions of the page. 
 
+## Table of Contents 
 
-# Live URL
+- [Live-URL](#Live-URL)
+- [Technologies](#Technologies)
+- [Question](#question) 
+- [LICENSE](#License) 
+
+## Live-URL
 https://gugacorchog.github.io/Portifolio/index.html
 
-![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb1.jpg)
+## Technologies
 
-![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb2.jpg)
+#### HTML
+#### CSS
+#### Bootstrap
+
+## LICENSE
+
+MIT
+
+## Question
+Questions? Let me know: [E-mail](mailto:gugacorchog@gmail.com)
+
+## ADD ME ON GITHUB 
+[Gustavo Corchog](https://github.com/gugacorchog)
