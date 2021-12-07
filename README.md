@@ -1,11 +1,11 @@
 # Gustavo Corchog Portfolio
 
 ![License](https://img.shields.io/github/license/gugacorchog/E-Commerce)
-![Languages](https://img.shields.io/github/languages/top/gugacorchog/E-Commerce)
-![Size](https://img.shields.io/github/repo-size/gugacorchog/E-Commerce?color=red)
-![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/E-Commerce?color=pink)
+![Languages](https://img.shields.io/github/languages/top/gugacorchog/Portifolio?color=red)
+![Size](https://img.shields.io/github/repo-size/gugacorchog/PORTIFOLIO?color=yellow)
+![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/PORTIFOLIO)
 
-    
+
 
 ## Description 
 
