@@ -5,9 +5,8 @@
 ![Size](https://img.shields.io/github/repo-size/gugacorchog/PORTIFOLIO?color=yellow)
 ![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/PORTIFOLIO)
 
-![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb1.jpg)
+![GitPortifolio](https://user-images.githubusercontent.com/87793995/145791389-4feb642d-f483-4f81-8293-7a3c8c51defe.gif)
 
-![ScreenShot](https://github.com/gugacorchog/Portifolio/blob/main/assets/images/screenshotweb2.jpg)
 
 ## Description 
 
